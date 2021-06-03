@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A miraculous victory obtained by the Right Honorable, Ferdinando Lord Fairfax, against the army under the command of the Earl of Newcastle at Wakefield in York-shire: of the enemy there was taken prisoners, Generall Goring, Sir Thomas Bland, 2 colonells, Sergeant Major Car, 13 captains, 1500 souldiers, 27 colours of foot, 3 cornets of horse, 4 lieutenants, 15 ensignes, and 1 cornet, 4 peeces of ordnance, all their ammunition, and a great number of armes, with the losse of 7 common souldiers. Sent in two letters to the Honorable, W: Lenthall, Esq; speaker in the House of Commons. Also a letter of great consequence, which was found in Generall Gorings chamber, which was sent to him by his father the Lord Goring. Ordered by the Commons in Parliament, that publique thanksgiving be too morrow the 28. of this instant May, given in all the churches and chappells of London, Westminster, Borough of Southwark, suburbs and places adjacent for the great and good successe it hath pleased God to give the forces under the command of the Lord Fairfax, at the taking in of Wakefield; and that the letters relating that good successe, be read in the said churches and chappels. H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>Fairfax, Ferdinando Fairfax, Baron, 1584-1648.</author>
+         </titleStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89166</idno><idno type="EEBO-CITATION">99873424</idno>
+  <idno type="VID">155933</idno>
+  <idno type="EEBO-PROQUEST">2240945990</idno>
+  
+            <idno type="STC">Wing M2218</idno>
+            <idno type="STC">Thomason E104_13</idno>
+            <idno type="STC">ESTC R8855</idno>
+            <idno type="PROQUEST">99873424</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99873424e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89166)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155933)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E104[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A miraculous victory obtained by the Right Honorable, Ferdinando Lord Fairfax, against the army under the command of the Earl of Newcastle at Wakefield in York-shire: of the enemy there was taken prisoners, Generall Goring, Sir Thomas Bland, 2 colonells, Sergeant Major Car, 13 captains, 1500 souldiers, 27 colours of foot, 3 cornets of horse, 4 lieutenants, 15 ensignes, and 1 cornet, 4 peeces of ordnance, all their ammunition, and a great number of armes, with the losse of 7 common souldiers. Sent in two letters to the Honorable, W: Lenthall, Esq; speaker in the House of Commons. Also a letter of great consequence, which was found in Generall Gorings chamber, which was sent to him by his father the Lord Goring. Ordered by the Commons in Parliament, that publique thanksgiving be too morrow the 28. of this instant May, given in all the churches and chappells of London, Westminster, Borough of Southwark, suburbs and places adjacent for the great and good successe it hath pleased God to give the forces under the command of the Lord Fairfax, at the taking in of Wakefield; and that the letters relating that good successe, be read in the said churches and chappels. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Fairfax, Ferdinando Fairfax, Baron, 1584-1648.</author>
+                  <author>Stockdell, Thomas.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>May 27. Printed for Edw. Husbands,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Second edition has title: "A fuller relation of that miraculous victory.".</note>
+                  <note>The first letter is by Lord Fairfax, the second by Thomas Stockdell.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Fairfax, Ferdinando Fairfax, --  Baron, 1584-1648.</term>
+               <term type="personal_name">Lenthall, William, 1591-1662.</term>
+               <term type="personal_name">Newcastle, William Cavendish, --  Duke of, 1592-1676.</term>
+               <term type="personal_name">Norwich, George Goring, --  Earl of, 1583?-1663.</term>
+               <term type="personal_name">Stockdell, Thomas --  Early works to 1800.</term>
+               <term type="geographic_name">Wakefield (West Yorkshire) --  History, Military. --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155933:1"/>
+            <p>A Miraculous VICTORY Obtained by the Right Honorable, FERDINANDO Lord FAIRFAX, against the Army under the Command of the Earl of NEW-CASTLE at WAKEFIELD <hi>IN</hi> YORK-SHIRE: Of the Enemy there was taken prisoners, Gene<g ref="char:EOLhyphen"/>nerall <hi>Goring,</hi> Sir <hi>Thomas Bland,</hi> 2 Colonells, Sergeant Major <hi>Car,</hi> 13 Captains, 1500 Souldiers, 27 Colours of Foot, 3 Cornets of Horse, 4 Lieutenants, 15 En<g ref="char:EOLhyphen"/>signes, and 1 Cornet, 4 peeces of Ordnance, all their Ammunition, and a great number of Armes, with the losse of 7 common Souldiers.</p>
+            <p>
+               <hi>Sent in two Letters to the Honorable,</hi> W: LINTHALL, Esq; <hi>Speaker in the House of COMMONS.</hi>
+            </p>
+            <p>Also a <hi>LETTER</hi> of great consequence, which was found in Generall <hi>Gorings</hi> chamber, which was sent to him by his Father the Lord <hi>Goring.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="Parliamentary_order">
+                        <p>ORdered by the Commons in Parliament, That publique Thanks<g ref="char:EOLhyphen"/>giving be toomorrow the <hi>28.</hi> of this instant <hi>May,</hi> given in all the Churches and Chappells of <hi>London, Westminster,</hi> Borough of <hi>South<g ref="char:EOLhyphen"/>wark,</hi> Suburbs and places adjacent for the great and good successe it hath pleased GOD to give the Forces under the Command of the Lord <hi>Fairfax,</hi> at the taking in of <hi>Wakefield;</hi> And that the <hi>Letters</hi> relating that good successe, be read in the said Churches and Chappels.</p>
+                        <closer>
+                           <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>MAY</hi> 27. Printed for <hi>Edw. Husbands.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb facs="tcp:155933:2"/>
+            <pb n="3" facs="tcp:155933:2"/>
+            <head>The Introduction.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas it hath too often been seen that in a great appearance of outward means, we are over confident, and in the smallnesse or dimi<g ref="char:EOLhyphen"/>nution of the same, wee are too low and distrustfull; so walking by sight, and not by faith, the divine Goodnesse and Wisdom, to weane us from this corruption, and to teach us the contrary Lesson, to walk by faith and not by sight, hath often wrought and given great Victories, by little means and unexpected wayes.</p>
+            <p>A notable Patern and Proof whereof is now seen in the Vi<g ref="char:EOLhyphen"/>ctory given at <hi>Wakefield,</hi> wherein God gave a happy suc<g ref="char:EOLhyphen"/>cesse upon great disadvantage and inequality, a far lesser number, even lesse by half, ever coming a greater in a for fi<g ref="char:EOLhyphen"/>fied Town, and the persons taken, for exceeding in number those that took them, and all this not with the losse of ten per<g ref="char:EOLhyphen"/>sons. As this calls for the eye of Faith, spiritually to discern the great Power and Goodnesse of God, which gives the ad<g ref="char:EOLhyphen"/>vantage of Victory on the side of the disadvantage in out<g ref="char:EOLhyphen"/>ward force; so it calls upon us to maintain and continua a course of Faith for the time to come, and by continually looking up unto God, and dependance on him, to expect from his Goodnesse and Bounty the like blessing in other times, of inequallity and disadvantage. And as this ought to con<g ref="char:EOLhyphen"/>firm our Expectations for the future, so both now and here<g ref="char:EOLhyphen"/>after, when Gods strength doth so visibly appear in out weak<g ref="char:EOLhyphen"/>nesse, we ought to give the whole Glory and Praise to his strength, and none to our own weaknesse.</p>
+            <pb n="4" facs="tcp:155933:3"/>
+            <p> Thankfulnesse for blessings past, being an Invitation of blessings to come, and God not failing to supply that, which he knows will certainly turn to his own Glory. Neither ought our Thanksgiving onely to bound it self in words, or in short thoughts and intentions, but it should especially be expressed in a hearty and reall conversion and conformity of soul and life to him, whose will ought to be the rule of our life, and whose service is the end of our being.</p>
+            <p>Let it also he further observed, That both this and other Victories have been given on that Day, which hath been so much opposed by dissolute and Popish persons, even to a confu<g ref="char:EOLhyphen"/>tation of it by set Discourses, and practicall Prophanations.</p>
+            <p>And having given all the Glory to God, it is next just and commendable to take notice of those whom God hath vouchsa<g ref="char:EOLhyphen"/>fed to use in his service, as to encourage them in Gods work, and that Cause, which God doth maintain by his own mighty and out-stretched arm, thus made good in this extraor<g ref="char:EOLhyphen"/>dinary both Deliverance and Victory.</p>
+         </div>
+         <div type="letter">
+            <head>For my honourable Friend WILL: LEN<g ref="char:EOLhyphen"/>THALL, Esq; Speaker in the Commons House of PARLIAMENT:</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>VPon the Sixth of this Month I writ to you by a speciall Messenger, which I hope is come to your hands; Presently after the dispatch of that Letter, the news was brought me, that the Earl of Newcastle had possessed himselfe both of Rotheram and Sheffeild, the Forces in Rotheram held out two dayes siege and yeil<g ref="char:EOLhyphen"/>ded up the Town upon treaty, wherein it was agreed, that the Town should not be plundered, and that all
+<pb n="5" facs="tcp:155933:3"/>the Gentlemen Commanders and Souldiers (six only excepted, that were specially named) leaving their Arms, should have free liberty to go whither they pleased; But when the enemy entred, contrary to their Articles, they have not only plundred the Town, but have also made all the Commanders and Souldiers pri<g ref="char:EOLhyphen"/>soners, and do endeavour to constrain them to take up Arms on their party: The Commanders at Sheffeild hearing of the losse of Rotheram, and seeing some of the enemies Forces advanced in view of the Town, they all presently disserted the place as not tenible with so few, against so potent and Army, and fled away with their Arms, some to Chesterfield, and some to Man<g ref="char:EOLhyphen"/>chester. The losse of these two places hath much ela<g ref="char:EOLhyphen"/>ted the enemy, and cast down the spirits of the people in these parts, who daily see the enemy encrease in power, and to gain ground, and no succors come to them from any part: The Earl of Newcastles Army do now Range over all the Southwest part of this Countrey, pillaging and cruelly using the well-affected party; and the last week there is a Garrison of Horse and Foot layd at Knavesborough, where they begin to Fortifie the Town, and Pillage and utterly ruine all the Religious people in those parts, and round about them: On Friday Seven-night last, three Troops and some other Forces, of which many were French came from that Garrison, and pillaged Otley, and there barba<g ref="char:EOLhyphen"/>rously used some honest women of that Town, and in their Retreat to Knavesborough upon the open Forrest they took a man and a woman, the man they wounded and beat cruelly, and before his face ravished the wo<g ref="char:EOLhyphen"/>man. These particulars I repeat, that you may the more clearly discern the miseries which this Countrey
+<pb n="6" facs="tcp:155933:4"/>groans under; and here about Leeds, Bradford, and Hallifax, being a mountainous barren. Country, the people now begin to be sensible of want, then last year provisions being spent, and the enemies Garrisons stop<g ref="char:EOLhyphen"/>ping all provisions both of Corn and Flesh, and other necessaries that were wont to come from the more fruitfull Countries to them, their trade utterly taken away, their poor grow innumerable, and great scarcity of means to relieve them. And this Army which now lyes amongst them to defend them from the enemy, cannot defend them from want, which causeth much murmure and lamentation amongst the people. And for the Army it selfe, it is so far in arreare, and no way appearing how they shall either be supplied with mo<g ref="char:EOLhyphen"/>ney nor succors, as they grow very mutinous.</p>
+            <p>Yet upon Saturday last in the night I caused to bee drawn out of the Garrisons in <hi>Leeds, Bradford, Hallifax</hi> and <hi>Howley,</hi> some horse, foot, and Dragooners in all a<g ref="char:EOLhyphen"/>bout 1500 men, and sent them against <hi>Wakefield,</hi> com<g ref="char:EOLhyphen"/>manded by my Son, and assisted by Major General <hi>Gifford,</hi> Sir <hi>Henry Fowles,</hi> and Sir <hi>William Fairfax,</hi> with divers other Commanders, they appeared before Wakefield about four a clock on Sunday in the mor<g ref="char:EOLhyphen"/>ning, where they found the enemies (who had intelli<g ref="char:EOLhyphen"/>gence of their designe) ready to receive them; there was in the Towne Generall <hi>Gering,</hi> Serjeant Major Generall <hi>Mackworth,</hi> the Lord <hi>Goring,</hi> with many o<g ref="char:EOLhyphen"/>ther principall Commanders, and eminent persons, with about 7. Troops of Horse, and six Regiments, con<g ref="char:EOLhyphen"/>taining 3000 foot, the Town well fortified with works, and four peeces of Ordinance; yet our men both Com<g ref="char:EOLhyphen"/>manders and common Souldiers, went on with undan<g ref="char:EOLhyphen"/>ted courages, and notwithstanding the thick vollyes
+<pb n="7" facs="tcp:155933:4"/>of small and great shott from the enemies cherged up to their Works which they entered, seized upon their Ordnance, and turned them upon themselves, and pur<g ref="char:EOLhyphen"/>sued the enemy so close as they beate quite out of the Town the most part of the Horse, and a great number of the Foot, and made all the rest prisoners, and with them tooke 4. piece of Ordnance, and all the Ammu<g ref="char:EOLhyphen"/>nition then in the Town, and a great number of Arms, and amongst the prisoners Generall <hi>Goring</hi> himselfe, with divers other Commanders, and other Common Souldiers, in all about fifteene hundred men, and twenty seven Colours of Foot, three Cornets of Horse of which I send a more particular list inclosed; the more exact &amp; particular relation of this service, as it is testified to me under the hands of the principall Commanders employed in that designe; I send you inclosed for your better information, and truly for my part I do rather account it a miracle, than a victory, and the glory &amp; praise to be ascribed to God that wrought it, in which I hope I derrogate nothing from the me<g ref="char:EOLhyphen"/>rits of the Commanders and Souldiers, who every man in his place and duty, shewed as much courage and resolution as could be expected from men. When the Town was thus taken, they found their number and strength too weak to keep it and their prisoners, so they left the place, &amp; marcht away with their booty. In taking the Town we lost no man of note, and not above se<g ref="char:EOLhyphen"/>ven men in all, of which one was the Clerke of the store, and an Ensigne of the Foot, and one a Quar<g ref="char:EOLhyphen"/>termaster of Horse, the rest Common-Souldiers, but many of our men were shot and wounded; this over<g ref="char:EOLhyphen"/>throw hath much inraged the enemies, who threaten a present revenge, and are drawing all their Forces this
+<pb n="8" facs="tcp:155933:5"/>way to effect it. I perceive there are Succors sent to Lincolnshire and other adjacent Countries, which if they were here, might be employed to as much advan<g ref="char:EOLhyphen"/>tage for the publique safety, as in any place. I desire our condition may be seriously thought on by the House, and the Ayds often promised, may presently March away to us, and that Colonell <hi>Cromwell,</hi> with his horse and foot may also be ordered to march to me, that being joyned together, I may be able to draw this Army into the Field, and gaine fresh Quarter for the Souldiers, and furnish our selves with Powder, Arms, and Ammunition, which is now grown very scarse, and cannot be supplied, untill the passage to Hull bee forced open, which now is possessed by the enemy. If such succors come not timely to us, we cannot long subsist, but must be forced to accept of dishonorable conditions; which besides the losse and ruine of this Countrey, will be a great disadvantage to the generall safety, and withall, some course must be thought on to furnish some large proportion of money to defray the Souldiers Arrears, which I beseech you endea<g ref="char:EOLhyphen"/>vour for them and me, that am</p>
+            <closer>
+               <signed>Your most affectionate<lb/> friend and Servant,<lb/>
+                  <hi>Fer. Fairfax.</hi>
+               </signed>
+               <dateline>
+                  <hi>Leeds</hi>
+                  <date>23 <hi>May,</hi>
+                     <lb/> 1643.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <p>I <hi>Send you inclosed a Letter from the Lord</hi> GOARING <hi>to his sonne Generall</hi> Goaring, <hi>found in his Chamber at</hi> Wake<g ref="char:EOLhyphen"/>field, <hi>which will let the House see the Enemies great desire to have this Army ruined, that they might with their whole Force march Southwards.</hi>
+            </p>
+            <pb n="9" facs="tcp:155933:5"/>
+            <p> SAturday night the 20 of <hi>May,</hi> The Lord Generall gave order for a party of a 1000 Foot, three Companies of Dragooners, and eight Troops of Horse, to March from the Garrisons of <hi>Leeds, Bradford, Hal<g ref="char:EOLhyphen"/>lifax,</hi> and <hi>Howley,</hi> Sir <hi>Thomas Fairfax</hi> commanded in chief; The Foot were commanded by Serjeant Major Generall <hi>Gifford,</hi> and Sir <hi>William Fairfax.</hi> The Horse were devided into two Bodies, four Troops Com<g ref="char:EOLhyphen"/>manded by Sir <hi>Thomas Fairfax</hi> and the other four Troops, by Sir <hi>Henry Foulis; Howley</hi> was the Randevouz, where they all met on Saturday last, about twelve a clock at night; about two next morning, they marcht away, and coming to <hi>Stanley,</hi> where two of the enemies Troops lay with some Dragooners; that Quarter was beaten up, and about one and twenty Prisoners taken. About four a clock in the morning we came before <hi>Wakefield,</hi> where after some of their Horse were beaten into the Town, the Foot with unspeakable courage, b at the enemies from the Hedges, which they had lyned with Mu<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kettiers into the Town, and assalted it in two places, <hi>Wrengate</hi> and <hi>Norgate;</hi> and after an hour and a half sight, we recovered one of their Peeces, and turned it upon them, and entred the Town at both places, at one and the same time: When the B<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>racadoes were opened, Sir <hi>Thomas Fairfax</hi> with the Horse, fell into the Town, and cleered the Street where Colonell <hi>Goring</hi> was taken, by Lievtenant <hi>Alured,</hi> Brother to Captain <hi>Alured,</hi> a Member of the House; yet in the Market place there stood three Troops of Horse, and Colonell <hi>Lamptons</hi> Regiment, to whom Major Generall <hi>Gifford</hi> sent a Trumpet with offer of Quarter, if they would lay down their Arms, they answered, they scorned the Motion; then he sired a Peece of their own Ordinance upon them, and the Horse fell in upon them, beat them out of Town, and took all these Officers exprest in this inclosed List, Twenty seven Colours of Foot, three Coronets of Horse, and about 1500 Common Souldiers. The enemy had in the Town 3000 Foot, and seven Troops of Horse, besides Colonell <hi>Lamptons</hi> Regiment, which came into the Town, after we had entred the Town: The enemy left behinde them fou<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Peeces of Ordnance, with Ammunition, which we brought away.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Thomas Fairfax,</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Foulis.</hi>
+                     </item>
+                     <item>
+                        <hi>John Gifford.</hi>
+                     </item>
+                     <item>
+                        <hi>William Fairfax.</hi>
+                     </item>
+                     <item>
+                        <hi>John Holman.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Foulis.</hi>
+                     </item>
+                     <item>
+                        <hi>Titus Leighton.</hi>
+                     </item>
+                     <item>
+                        <hi>Prancis Talbott.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="list_of_prisoners">
+            <pb n="10" facs="tcp:155933:6"/>
+            <head>Prisoners Commanders taken at <hi>Wakefield, May</hi> 21. 1643.</head>
+            <list>
+               <item>GEnerall <hi>Goring.</hi>
+               </item>
+               <item>Sir <hi>Thomas Bland,</hi> Liev<g ref="char:EOLhyphen"/>tenant Colonell to Sir <hi>George Wentworth.</hi>
+               </item>
+               <item>Lievt: Colonell <hi>Saint-George.</hi>
+               </item>
+               <item>Leiv: Colonell <hi>Macmoyler.</hi>
+               </item>
+               <item>Serjeant Major <hi>Carr.</hi>
+               </item>
+               <item>Captain <hi>Carr.</hi>
+               </item>
+               <item>Captain <hi>Knight.</hi>
+               </item>
+               <item>Captain <hi>Wildbore.</hi>
+               </item>
+               <item>Captain <hi>Rueston.</hi>
+               </item>
+               <item>Captain <hi>Pemberton.</hi>
+               </item>
+               <item>Captain <hi>Croft.</hi>
+               </item>
+               <item>Captain <hi>Ledgard.</hi>
+               </item>
+               <item>Captain <hi>Lashley.</hi>
+               </item>
+               <item>Captain <hi>Kayley.</hi>
+               </item>
+               <item>Captain <hi>Nuttall.</hi>
+               </item>
+               <item>Captain Lievtenant <hi>Benson.</hi>
+               </item>
+               <item>Serjeant Major <hi>Carnabie,</hi> and Captain <hi>Nuttall,</hi> left wounded in <hi>Wakefild,</hi> upon their In<g ref="char:EOLhyphen"/>gagement to be true prisoners</item>
+               <item>Lievtenant
+<list>
+                     <item>
+                        <hi>Munckton.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas.</hi>
+                     </item>
+                     <item>
+                        <hi>Wheatley.</hi>
+                     </item>
+                     <item>
+                        <hi>Kent.</hi>
+                     </item>
+                     <item>
+                        <hi>Nicholson.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Ensigne <hi>Squire.</hi>
+               </item>
+               <item>Ensigne <hi>Vavasor.</hi>
+               </item>
+               <item>Ensigne <hi>Maskew.</hi>
+               </item>
+               <item>Ensigne <hi>Lampton.</hi>
+               </item>
+               <item>Ensigne <hi>Ducket.</hi>
+               </item>
+               <item>Ensigne <hi>Stockhald.</hi>
+               </item>
+               <item>Ensigne <hi>Baldwinson.</hi>
+               </item>
+               <item>Ensigne <hi>Davis.</hi>
+               </item>
+               <item>Ensigne <hi>Carr.</hi>
+               </item>
+               <item>Ensigne <hi>Gibson.</hi>
+               </item>
+               <item>Ensigne <hi>Smathweight.</hi>
+               </item>
+               <item>Ensigne <hi>Ballinson.</hi>
+               </item>
+               <item>Ensigne <hi>Watson.</hi>
+               </item>
+               <item>Ensigne <hi>Smelt.</hi>
+               </item>
+               <item>Ensigne <hi>Hallyburton.</hi>
+               </item>
+               <item>Coronet <hi>Wivill.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="letter">
+            <pb n="11" facs="tcp:155933:6"/>
+            <p>AFter this Letter was concluded our men took <hi>Wake<g ref="char:EOLhyphen"/>field,</hi> of which I send a particular Relation inclosed, and a List of the Prisoners and other Booty taken; If we had now any force of Horse to joyn with us, we should in all probability utterly rout the Enemies in this Countrey, or shut them up in holds, which if it do not speedily come, we shall be in danger to perish, if the Enemy draw his whole Force upon us.</p>
+            <p>I had forgotten in the Letter to the Speaker to mention the new Commissions granted by the King, wherein His Majestie, according to the known Laws of the Land (as all things are said to be done) gives liberty to the parties to whom the Commissions are directed, to Plunder, and take mens Estates, so as they account for the moitie of the profit to His Majestie; this is confessed by the Captains now Prisoners here.</p>
+            <closer>
+               <signed>Your Servant<lb/>
+                  <hi>Thomas Stockdell.</hi>
+               </signed>
+               <dateline>From Leeds <date>23 May<lb/> 1643.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>It is now about three weeks since we had any Letter from you, or any advertisement from the South.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>George</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Saw what you wrote to <hi>H. Jermine,</hi> and finde that the businesse will be put on that way; But I am of opinion that Your Gene<g ref="char:EOLhyphen"/>rall will never consent to it, the latter way of dividing his Force, unlesse it be in the Countrey where he will abide his self, this will be tried to morrow at his return hither, where the Queen expects him. In the interim, if it were possible to give the Enemy any such knock, or considerable disturbance, to the Countrey round
+<pb n="12" facs="tcp:155933:7"/>about them, which hath not yet felt the misery of their neighbours, I would not doubt but the Treatie might be resumed again, by which means and by no other, your Armie may be set at Libertie to change your stations, and do something that may be of consequence indeed. I pray you think seriously hereof, and once in your life follow the advice of your best friend and dearly loving Father</p>
+            <closer>
+               <signed>Goreinge.</signed>
+               <dateline>
+                  <date>
+                     <hi>April 17. 1643.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <p>After I had sealed my Letter I was advised to advertise you, That the Lord <hi>Fairfax</hi> never beleeved you would look into the parts where now you are, but intended to draw back to the place from whence you came, which made him so lofty in his Conditions where<g ref="char:EOLhyphen"/>fore if you can (as my Authors propose) get between <hi>Bradford</hi> and <hi>Leeds,</hi> you will so annoy, divert, and separate them in all th<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir de<g ref="char:EOLhyphen"/>signes, as you may be sure to carry <hi>Hallifax</hi> and <hi>Beadford</hi> on that hand, or <hi>Leeds</hi> on the other. Take this to heart, and let Generall <hi>King,</hi> with my humble service, know this much, not as new to him and the rest of you, but as that which all the wisest and most know<g ref="char:EOLhyphen"/>ing men in the Countrey advise and hope; <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his will so hare them, and satisfie this Countrey, and will give you such other advantages, as will render happy and glorious too; whereas on the contrary, all will fall flat both in power and reputation past expression. And her Majestie, either unprovided of such a Convoy from thence, as is fit for her and the Kings present occasions, or else leave this Coun<g ref="char:EOLhyphen"/>trey naked to the Tyranny of the mercilesse Enemy, contrary to con<g ref="char:EOLhyphen"/>tract, and all due Justice. This is the opinion of others, far better able to advise, then he that so heartily prayes for you, and is</p>
+            <closer>
+               <signed>
+                  <hi>Yours</hi> Goreinge.</signed>
+               <hi>Cudgell them to a Treaty, and<lb/> then let us alone with the rest.</hi>
+               <lb/>
+               <dateline>York <date>April <hi>17. 1643.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
